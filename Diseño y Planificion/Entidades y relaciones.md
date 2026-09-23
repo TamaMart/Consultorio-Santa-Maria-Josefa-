@@ -110,3 +110,7 @@ string tipo_alerta
 date fecha_generada
 }
 ```
+
+
+## nuevo diagrama con correccion 
+<img width="1472" height="1284" alt="image" src="https://github.com/user-attachments/assets/d523eea1-9ece-4ccd-9a0e-766a54640eef" />
